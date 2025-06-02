@@ -106,3 +106,7 @@ body{
         flex-direction: row;
     }
 }
+
+label{
+    font-size: 20px;
+}
